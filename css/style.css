@@ -1,0 +1,18 @@
+.table-top {
+    padding-top: 25px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:focus {
+    text-decoration: none;
+}
+
+.registros-opacity {
+    opacity: 0.4;
+    background-image: url('http://orig06.deviantart.net/df77/f/2013/094/8/d/loading_logofinal_by_zegerdon-d60eb1v.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+}
